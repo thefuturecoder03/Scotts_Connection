@@ -38,5 +38,5 @@ jobs:
 
           source: "./*"
 
-          target: "/home/s2276375-php/htdocs/s2276375.ncgrp.xyz/Scott's_Connection"
+          target: "/home/s2276375-php/htdocs/s2276375.ncgrp.xyz/Scotts_Connection"
  
